@@ -1,4 +1,4 @@
-This is my first project when practicing the basics of data science. I spent over 2 months on it, mainly using it to practice my python skills, as well as other relavent libraries such as pandas, matplotlib, seaborn, and FBProphet. This data set was found on Kaggle.com.
+This is my first project when practicing the basics of data science. I spent over 2 months on it, mainly using it to practice my python skills, as well as other relevant libraries such as pandas, matplotlib, seaborn, and FBProphet. This data set was found on Kaggle.com.
 
 Attached is the jupyter notebook I used to test on the data set, as well as a converted python script with the same code. Also attached is the data folder containing all of the csv files I read from. Lastly, a visualization dashboard to see the results of my analysis. 
 
@@ -15,7 +15,7 @@ Some insights I gained from analysing this data set:
 10. Pay to growers is projected to increase by 76% in the next 20 years.
 11. The price of coffee is projected to increase by 26%.
 
-I enjoyed this project as it seemed like a relavent data set to test on considering my love for coffee. admittedly, this project is far from perfect. The analysis is limited and the code can be sloppy at times, but it's my first project and I'm proud of it.
+I enjoyed this project as it seemed like a cool data set to test on considering my love for coffee. admittedly, this project is far from perfect. The analysis is limited and the code can be sloppy at times, but it's my first project and I'm proud of it.
 
 Special thanks to Rub Mulla's channel on YouTube, who's videos have helped me out a lot in learning how to conduct this project.
 
